@@ -1,25 +1,163 @@
-<h1 align="center">Hi 👋, I'm Uday kumar Dev</h1>
-<h3 align="center">A passionate fullstack development</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ukdeo&label=Profile%20views&color=0e75b6&style=flat" alt="ukdeo" /> </p>
+# 👋 Hi, I'm Uday Kumar Dev
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ukdeo" alt="ukdeo" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Backend+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Technology+That+Solves+Real+Problems;Welcome+to+My+GitHub+Profile+🚀" />
 
-- 🔭 I’m currently working on **Sarathi**
+<img src="https://komarev.com/ghpvc/?username=ukdeo&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
 
-- 🌱 I’m currently learning **Deep Learning**
+<img src="https://img.shields.io/github/followers/ukdeo?label=Followers&style=for-the-badge&logo=github"/>
 
-- 👨‍💻 All of my projects are available at [udaykumardev.com.np](udaykumardev.com.np)
+<img src="https://img.shields.io/github/stars/ukdeo?affiliations=OWNER&style=for-the-badge"/>
 
-- 📫 How to reach me **udayd468@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+
+# 💫 About Me
+
+```python
+class Uday:
+
+    def __init__(self):
+        self.name = "Uday Kumar Dev"
+        self.role = "Computer Engineering Student"
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Backend Development",
+            "Machine Learning",
+            "GIS",
+            "System Design"
+        ]
+
+        self.current_project = "Sarthi"
+
+    def motto(self):
+        return "Code • Learn • Build • Repeat 🚀"
+```
+
+
+
+# 🚀 Tech Stack
+
+### 💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,sql"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ukdeo&show_icons=true&locale=en&layout=compact" alt="ukdeo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ukdeo&" alt="ukdeo" /></p>
+### ⚙️ Frameworks & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=django,postgres,docker,git,github,vscode,figma"/>
+
+</p>
+
+
+
+# 🌱 Currently Learning
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ☁️ Cloud Computing
+- 🛰️ GIS & PostGIS
+- 🏗️ System Design
+
+
+
+# 🚑 Featured Project
+
+## 🚗 Sarthi – Smart Fleet Management System
+
+A rule-based GPS dispatch and fleet management platform designed for:
+
+- 🚑 Ambulance Services
+- 🚛 Logistics Fleets
+- 🏙️ Municipal Vehicles
+
+### ✨ Features
+
+- 📍 Real-Time GPS Tracking
+- 🚦 Rule-Based Dispatch
+- 👨‍✈️ Driver Management
+- 🔧 Vehicle Maintenance
+- 📊 Analytics Dashboard
+- 🛣️ Route Optimization
+- 🚨 Emergency Coordination
+
+
+
+
+
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ukdeo&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+
+
+
+
+# 🌎 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ukdeo&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ukdeo&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ukdeo&theme=tokyonight"/>
+
+</p>
+
+
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/ukdeo">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:udayd468@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+
+
+# 💬 Developer Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<div align="center">
+
+## 🚀 Thanks for Visiting!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=500&lines=Happy+Coding!+💙;Keep+Learning!+🚀;See+You+Again!+⭐"/>
+
+### ⭐ If you like my work, consider starring my repositories!
+
+</div>
