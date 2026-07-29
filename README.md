@@ -50,7 +50,7 @@ class Uday:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,sql"/>
 
 </p>
 
